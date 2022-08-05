@@ -86,9 +86,7 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  <audio controls autoplay>
-    <source src="https://github.com/Innu95/florin/blob/main/assets/img/della.mp3" type="audio/mpeg">
-  </audio>
+  
   
 }
 
@@ -103,6 +101,9 @@ hr {
   background-repeat:no-repeat;
   background-position: center center;
   
+  <audio controls autoplay>
+    <source src="https://github.com/Innu95/florin/blob/main/assets/img/della.mp3" type="audio/mpeg">
+  </audio>
   
 }
 
