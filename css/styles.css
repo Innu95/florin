@@ -91,7 +91,7 @@ body {
 }
 
 <audio>
-  <src="https://github.com/Innu95/florin/blob/main/assets/img/della.mp3" type="audio/mpeg">
+  <embed src="https://github.com/Innu95/florin/blob/main/assets/img/della.mp3" type="audio/mpeg" autostart="true">
 </audio>
 
 hr {
